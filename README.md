@@ -1,4 +1,4 @@
-# CPS 251
+# CPS 251 - Android Programming
 
 This is a selection of the homework problems for the Washtenaw Community College class [CPS 251 - Android Programming](https://catalog.wccnet.edu/current/courses/cps-251.php) which I took in Spring 2024.
 
